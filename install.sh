@@ -14,3 +14,7 @@ sudo mkfontscale
 
 sudo fc-cache -fv
 
+sudo fc-list|grep "YaHei Consolas Hybrid"
+
+echo "install finished"
+
